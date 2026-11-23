@@ -1,0 +1,26 @@
+{
+  "open": "Otwórz menu",
+  "close": "Zamknij menu",
+  "sending": "Wysyłanie…",
+  "country": "Polska",
+  "reference": "Wnętrze referencyjne",
+  "photoNotice": "Zdjęcia mają charakter referencyjny i nie dokumentują jednego obiektu.",
+  "principles": [
+    [
+      "Materia",
+      "Naturalne faktury łączymy z wyrazistym detalem."
+    ],
+    [
+      "Światło",
+      "Wydobywa strukturę, buduje nastrój i zmienia odbiór przestrzeni."
+    ],
+    [
+      "Proporcje",
+      "Skala, rytm i oddech są podstawą kompozycji."
+    ],
+    [
+      "Codzienność",
+      "Estetyka wspiera życie. Funkcja jest częścią każdej decyzji."
+    ]
+  ]
+}

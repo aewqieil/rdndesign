@@ -1,0 +1,44 @@
+{
+  "open": "Open menu",
+  "close": "Close menu",
+  "sending": "Sending…",
+  "country": "Poland",
+  "reference": "Reference interior",
+  "photoNotice": "Photographs are references and do not document a single property.",
+  "principles": [
+    [
+      "Material",
+      "Textures that belong together. Natural materials meet expressive details."
+    ],
+    [
+      "Light",
+      "Light is a material: it reveals texture, builds atmosphere and transforms space."
+    ],
+    [
+      "Proportions",
+      "Balance between full and empty. Scale, rhythm and breathing room shape composition."
+    ],
+    [
+      "Everyday life",
+      "Aesthetics support life. Function is part of every decision."
+    ]
+  ],
+  "projectNames": [
+    "Quiet form",
+    "Matter and light",
+    "Shared rhythm",
+    "A place between"
+  ],
+  "projectDescriptions": [
+    "A space for everyday life. Warm wood, soft light and a restrained palette create a calm rhythm.",
+    "A study of raw material and light. Expressive volumes meet subtle surface textures.",
+    "A concept for gathering. An open layout and distinct zones support focus and conversation.",
+    "An intimate interpretation of hospitality. Natural materials and muted tones invite a pause."
+  ],
+  "projectMaterials": [
+    "Oak, natural stone, mineral plaster, linen",
+    "Travertine, wood, brushed steel",
+    "Wood, glass, acoustic textiles",
+    "Stone, stained oak, wool, ceramics"
+  ]
+}

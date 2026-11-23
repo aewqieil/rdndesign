@@ -1,0 +1,96 @@
+{
+  "nav": [
+    [
+      "Projects",
+      "/projekty"
+    ],
+    [
+      "Services",
+      "/uslugi"
+    ],
+    [
+      "Studio",
+      "/studio"
+    ],
+    [
+      "Contact",
+      "/kontakt"
+    ]
+  ],
+  "hero": [
+    "SPACES",
+    "WITH CHARACTER."
+  ],
+  "intro": "Independent interior design studio. We combine a sensitivity to form with attention to everyday life.",
+  "demo": "Demonstration portfolio — illustrative concepts and reference photographs. These are not completed RDN Design projects.",
+  "services": [
+    {
+      "name": "Interior design",
+      "text": "A coherent interior concept, from the first idea to the decisions that give a space its character.",
+      "deliver": "Style concept, functional layout, material selection and project documentation."
+    },
+    {
+      "name": "Space planning",
+      "text": "A layout shaped around the way you live. Proportions, circulation and function considered together.",
+      "deliver": "Needs analysis, layout options and a plan of the chosen solution."
+    },
+    {
+      "name": "3D visualisation",
+      "text": "Light, texture and scale made visible before final decisions.",
+      "deliver": "Visualisations of agreed rooms and a presentation of the material concept."
+    },
+    {
+      "name": "Furniture and materials",
+      "text": "Objects and surfaces selected to form one considered whole.",
+      "deliver": "A schedule of furniture, lighting, materials and finishes within the agreed scope."
+    },
+    {
+      "name": "Interior transformation",
+      "text": "A new perspective on an existing space. Thoughtful changes reveal its potential.",
+      "deliver": "A transformation concept, colour palette and furnishing recommendations."
+    }
+  ],
+  "process": [
+    [
+      "Consultation",
+      "We learn about your needs, habits and expectations."
+    ],
+    [
+      "Concept",
+      "We find a direction that expresses the character of the place."
+    ],
+    [
+      "Space planning",
+      "We organise space, proportions and everyday scenarios."
+    ],
+    [
+      "3D visualisation",
+      "We explore materials, forms and light within the space."
+    ],
+    [
+      "Documentation",
+      "We turn the concept into a clear set of documents."
+    ]
+  ],
+  "categories": {
+    "All": "All",
+    "Residential": "Residential",
+    "Commercial": "Commercial",
+    "Hospitality": "Hospitality",
+    "Conceptual": "Conceptual"
+  },
+  "contact": {
+    "title": "LET'S TALK.",
+    "intro": "Every space starts with a conversation. Tell us about yours.",
+    "name": "Full name",
+    "email": "Email",
+    "type": "Project type",
+    "area": "Area (m², optional)",
+    "message": "Your message",
+    "consent": "I have read the privacy notice and agree to be contacted about my enquiry.",
+    "send": "Send enquiry",
+    "unavailable": "The form is not connected to an email service yet. Your message was not sent.",
+    "success": "Thank you. Your message has been sent.",
+    "error": "The message could not be sent. Please try again later."
+  }
+}
