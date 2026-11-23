@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" fill="#681F32"/><text x="7" y="43" fill="#F1EFEA" font-size="26" font-family="sans-serif" font-weight="900">RDN</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <title>RDN Design</title>
+  <rect width="120" height="120" fill="#681f32"/>
+  <g fill="#f1efea">
+    <g transform="translate(18 0) scale(.7)">
+      <path d="M27 92V58a33 33 0 0 1 66 0v34H76V59a16 16 0 0 0-32 0v33z"/>
+      <path d="M51 92h25L61 80z"/>
+    </g>
+    <g transform="translate(33.16 64) scale(.44 .36)">
+      <path d="M12 37h15c9 0 14 5 14 13 0 6-3 10-8 12l10 19H33l-9-17h-4v17h-8zm8 8v11h7c4 0 6-2 6-6 0-3-2-5-6-5z"/>
+      <path d="M47 37h12c13 0 20 8 20 22s-7 22-20 22H47zm8 8v28h4c8 0 12-5 12-14s-4-14-12-14z"/>
+      <path d="M84 37h8l10 25V37h8v44h-8L92 56v25h-8z"/>
+    </g>
+  </g>
+</svg>
